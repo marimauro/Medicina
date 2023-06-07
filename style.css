@@ -1,4 +1,10 @@
-header{
+.cabeçalho{
     background-color: #538461;
     color: black;
+    display: flex;
 }
+
+.cabeçalho-imagem{
+    width: 20%;
+}
+
